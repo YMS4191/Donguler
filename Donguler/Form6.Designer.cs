@@ -97,6 +97,7 @@
             // 
             this.lblYaziAlani.BackColor = System.Drawing.SystemColors.InactiveCaptionText;
             this.lblYaziAlani.Font = new System.Drawing.Font("Verdana", 9F, System.Drawing.FontStyle.Bold);
+            this.lblYaziAlani.ForeColor = System.Drawing.Color.White;
             this.lblYaziAlani.Location = new System.Drawing.Point(12, 227);
             this.lblYaziAlani.Name = "lblYaziAlani";
             this.lblYaziAlani.Size = new System.Drawing.Size(220, 178);
